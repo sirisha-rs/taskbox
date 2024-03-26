@@ -1,0 +1,279 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir C:\Users\SRAMAK~1\AppData\Local\Temp\chromatic--9652-V1maZ4g3VNw7
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v18.19.1
+
+Operating system : Windows 10
+
+[13:11:42] No configuration file found, switching to CLI flags.
+[13:11:42] Using tsconfig file : C:\Users\sramakkapeta\Desktop\taskbox\.storybook\tsconfig.json
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/.storybook/preview.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/favicon.ico
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/index.html
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/main.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/polyfills.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/styles.css
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.component.css
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.component.html
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.module.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.prod.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/button.component.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/button.css
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Button.stories.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/header.component.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/header.css
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Header.stories.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Introduction.mdx
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/page.component.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/page.css
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Page.stories.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/User.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/inbox-screen.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-inbox-screen.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-task-list.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-task-list.stories.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task-list.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.component.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.module.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.stories.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/models/task.model.ts
+[13:11:42] Including      : C:/Users/sramakkapeta/Desktop/taskbox/src/app/state/task.state.ts
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/icon/percolate.eot
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/icon/percolate.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/icon/percolate.ttf
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/assets/icon/percolate.woff
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/code-brackets.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/colors.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/comments.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/direction.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/flow.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/plugin.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/repo.svg
+[13:11:42] Excluding      : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/assets/stackalt.svg
+[13:11:42] Searching package.json file
+[13:11:42] package.json file found
+[13:11:42] Processing package.json dependencies
+[13:11:42] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[13:11:42] README.md file found
+[13:11:42] Error during C:\Users\sramakkapeta\Desktop\taskbox\CHANGELOG read
+[13:11:42] Continuing without CHANGELOG.md file
+[13:11:42] Error during C:\Users\sramakkapeta\Desktop\taskbox\CONTRIBUTING read
+[13:11:42] Continuing without CONTRIBUTING.md file
+[13:11:42] LICENSE.md file found
+[13:11:42] Error during C:\Users\sramakkapeta\Desktop\taskbox\TODO read
+[13:11:42] Continuing without TODO.md file
+[13:11:42] Get dependencies data
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/.storybook/preview.ts
+[13:11:42] found          : preview
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/main.ts
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/polyfills.ts
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.component.ts
+[13:11:42] found          : AppComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.module.ts
+[13:11:42] found          : AppModule
+[13:11:42]                : - imports:
+[13:11:42]                : 	- BrowserModule
+[13:11:42]                : 	- TaskModule
+[13:11:42]                : 	- NgxsModule
+[13:11:42]                : 	- NgxsReduxDevtoolsPluginModule
+[13:11:42]                : 	- NgxsLoggerPluginModule
+[13:11:42]                : - declarations:
+[13:11:42]                : 	- AppComponent
+[13:11:42]                : 	- InboxScreenComponent
+[13:11:42]                : 	- PureInboxScreenComponent
+[13:11:42]                : - bootstrap:
+[13:11:42]                : 	- AppComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.prod.ts
+[13:11:42] found          : environment
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.ts
+[13:11:42] found          : environment
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/button.component.ts
+[13:11:42] found          : ButtonComponent
+[13:11:42]                : - imports:
+[13:11:42]                : 	- CommonModule
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Button.stories.ts
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : Primary
+[13:11:42] found          : Secondary
+[13:11:42] found          : Large
+[13:11:42] found          : Small
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/header.component.ts
+[13:11:42] found          : HeaderComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Header.stories.ts
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : LoggedIn
+[13:11:42] found          : LoggedOut
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/page.component.ts
+[13:11:42] found          : PageComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Page.stories.ts
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : LoggedOut
+[13:11:42] found          : LoggedIn
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/stories/User.ts
+[13:11:42] found          : User
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/inbox-screen.component.ts
+[13:11:42] found          : InboxScreenComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-inbox-screen.component.ts
+[13:11:42] found          : PureInboxScreenComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : Default
+[13:11:42] found          : Error
+[13:11:42] found          : WithInteractions
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-task-list.component.ts
+[13:11:42] found          : PureTaskListComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/pure-task-list.stories.ts
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : Default
+[13:11:42] found          : WithPinnedTasks
+[13:11:42] found          : Loading
+[13:11:42] found          : Empty
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task-list.component.ts
+[13:11:42] found          : TaskListComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.component.ts
+[13:11:42] found          : TaskComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.module.ts
+[13:11:42] found          : TaskModule
+[13:11:42]                : - imports:
+[13:11:42]                : 	- CommonModule
+[13:11:42]                : 	- NgxsModule
+[13:11:42]                : - exports:
+[13:11:42]                : 	- TaskComponent
+[13:11:42]                : 	- TaskListComponent
+[13:11:42]                : - declarations:
+[13:11:42]                : 	- TaskComponent
+[13:11:42]                : 	- TaskListComponent
+[13:11:42]                : 	- PureTaskListComponent
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/task.stories.ts
+[13:11:42] found          : actionsData
+[13:11:42] found          : meta
+[13:11:42] found          : Story
+[13:11:42] found          : Default
+[13:11:42] found          : Pinned
+[13:11:42] found          : Archived
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/models/task.model.ts
+[13:11:42] found          : Task
+[13:11:42] parsing        : C:/Users/sramakkapeta/Desktop/taskbox/src/app/state/task.state.ts
+[13:11:42] found          : actions
+[13:11:42] found          : ArchiveTask
+[13:11:42] found          : PinTask
+[13:11:42] found          : AppError
+[13:11:42] found          : defaultTasks
+[13:11:42] found          : TaskStateModel
+[13:11:42] found          : TasksState
+[13:11:42] -------------------
+[13:11:42] Project statistics 
+[13:11:42] - files      : 26
+[13:11:42] - module     : 2
+[13:11:42] - component  : 9
+[13:11:42] - injectable : 1
+[13:11:42] - class      : 3
+[13:11:42] - interface  : 3
+[13:11:42] -------------------
+[13:11:42] Prepare components
+[13:11:42]  ButtonComponent has styleUrls, include them
+[13:11:42]  HeaderComponent has styleUrls, include them
+[13:11:42]  PageComponent has styleUrls, include them
+[13:11:42] Prepare modules
+[13:11:42] Prepare injectables
+[13:11:42] Prepare classes
+[13:11:42] Prepare interfaces
+[13:11:42] Prepare miscellaneous
+[13:11:42] Process documentation coverage report
+[13:11:42] Generating documentation in export format json
+[13:11:42] Documentation generated in ./ in 0.752 seconds
+info => Cleaning outputDir: C:\Users\SRAMAK~1\AppData\Local\Temp\chromatic--9652-V1maZ4g3VNw7
+
+info => Loading presets
+info => Building manager..
+info => Manager built (304 ms)
+info => Building preview..
+info => Copying static files: C:\Users\sramakkapeta\Desktop\taskbox\node_modules\@storybook\manager\static at C:\Users\SRAMAK~1\AppData\Local\Temp\chromatic--9652-V1maZ4g3VNw7\sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:C:\Users\sramakkapeta\Desktop\taskbox\.storybook\tsconfig.json"
+info => Using default Webpack5 setup
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/polyfills.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/sramakkapeta/Desktop/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   493.1f797d15.iframe.bundle.js (816 KiB)
+WARN   433.b0969e3c.iframe.bundle.js (796 KiB)
+WARN   841.2ddd4272.iframe.bundle.js (583 KiB)
+WARN   117.16c4cc06.iframe.bundle.js (2.53 MiB)
+WARN   947.77bdc1e3.iframe.bundle.js (877 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.65 MiB)
+WARN       runtime~main.5c46f2d7.iframe.bundle.js
+WARN       117.16c4cc06.iframe.bundle.js
+WARN       main.8ceb0d0674c00a7165b8.css
+WARN       main.fdc17c1e.iframe.bundle.js
+WARN 
+info => Preview built (56 s)
+info => Output directory: C:\Users\SRAMAK~1\AppData\Local\Temp\chromatic--9652-V1maZ4g3VNw7
